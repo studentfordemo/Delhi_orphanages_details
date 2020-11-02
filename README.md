@@ -1,17 +1,12 @@
 # Delhi_orphanages_details
 
-```diff
-- text in red
-+ text in green
-! text in orange
-
 ##  Arya Orphanage
 
-- 4.1 
+4.1 
 
-- New Delhi, Delhi
+New Delhi, Delhi
 
-- Open now · 011 2327 2084
+Open now · 011 2327 2084
 
 ## Bachchon Ka Ghar
 
