@@ -1,10 +1,13 @@
 # Delhi_orphanages_details
 
-.text-red on white 
+```diff
+- text in red
++ text in green
+! text in orange
 
 ## Arya Orphanage
 
-4.1 
++ 4.1 
 
 New Delhi, Delhi
 
