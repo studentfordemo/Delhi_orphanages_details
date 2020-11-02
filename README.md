@@ -1,5 +1,7 @@
 # Delhi_orphanages_details
 
+.text-red on white 
+
 ## Arya Orphanage
 
 4.1 
